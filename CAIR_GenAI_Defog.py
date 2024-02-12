@@ -308,7 +308,9 @@ datetime DATE(8),
 st_area(Shape) DECIMAL(0) PRIMARY KEY,
 st_perimeter(Shape) DECIMAL(0) PRIMARY KEY);
 
-
+### Answer
+Given the database schema, here is the SQL query that answers [QUESTION]{question}[/QUESTION]
+[SQL]
 """
 
 import sqlparse
